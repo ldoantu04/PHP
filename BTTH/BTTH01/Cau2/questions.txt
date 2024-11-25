@@ -1,0 +1,69 @@
+Câu hỏi 1:Thành phần nào sau đây KHÔNG phải là một view (thành phần hiển thị) trong Android?
+A. TextView
+B. EditText
+C. Service
+D. ImageView
+ANSWER: C
+
+Câu hỏi 2:Layout nào thường được sử dụng để tạo các giao diện phức tạp với các ràng buộc giữa các view?
+A. LinearLayout
+B. RelativeLayout
+C. FrameLayout
+D. ConstraintLayout
+ANSWER: D
+
+Câu hỏi 3:Phương thức nào được gọi khi một Activity đang được tạo ra?
+A. onCreate()
+B. onStart()
+C. onResume()
+D. onPause()
+ANSWER: A
+
+Câu hỏi 4:Intent được sử dụng để làm gì?
+A. Lưu trữ dữ liệu
+B. Khởi động một Activity mới
+C. Xử lý các sự kiện người dùng
+D. Cả A và B
+ANSWER: B
+
+Câu hỏi 5:Lifecycle (vòng đời) của một Activity bao gồm những trạng thái nào?
+A. Created, Started, Resumed, Paused, Stopped, Destroyed
+B. Running, Paused, Stopped
+C. Active, Inactive
+D. Visible, Invisible
+ANSWER: A
+
+Câu hỏi 6:Adapter được sử dụng để làm gì?
+A. Kết nối dữ liệu với một view
+B. Xử lý các sự kiện người dùng
+C. Quản lý các layout
+D. Lưu trữ dữ liệu
+ANSWER: A
+
+Câu hỏi 7:Broadcast Receiver được sử dụng để làm gì?
+A. Nhận và xử lý các broadcast intent
+B. Gửi các broadcast intent
+C. Cả A và B
+D. Không liên quan đến intent
+ANSWER: C
+
+Câu hỏi 8:Fragment là gì?
+A. Một module độc lập trong một ứng dụng
+B. Một phần của một Activity
+C. Một loại layout
+D. Một loại view
+ANSWER: B
+
+Câu hỏi 9:Service được sử dụng để làm gì?
+A. Thực hiện các tác vụ nền
+B. Hiển thị giao diện người dùng
+C. Xử lý các sự kiện người dùng
+D. Quản lý các tài nguyên hệ thống
+ANSWER: A
+
+Câu hỏi 10:Content Provider được sử dụng để làm gì?
+A. Quản lý dữ liệu chia sẻ giữa các ứng dụng
+B. Lưu trữ dữ liệu cục bộ
+C. Truy cập vào các dịch vụ hệ thống
+D. Cả A và B
+ANSWER: A
