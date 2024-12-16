@@ -1,0 +1,69 @@
+@media screen and (max-width: 992px) {
+	.table-wrapper {
+		min-width: auto;
+		margin: 0 15px;
+		padding: 15px;
+	}
+	
+	.table-title {
+		padding: 15px;
+		margin: -15px -15px 10px;
+	}
+	
+	.table-title h2 {
+		font-size: 20px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.table-responsive {
+		overflow-x: auto;
+	}
+	
+	table.table tr th, table.table tr td {
+		padding: 8px 10px;
+	}
+	
+	.btn {
+		padding: 6px 12px;
+		font-size: 12px;
+	}
+	
+	.table-title .btn {
+		margin-top: 10px;
+		float: left;
+	}
+	
+	.table-title h2 {
+		margin-bottom: 15px;
+	}
+}
+
+@media screen and (max-width: 576px) {
+	.container-xl {
+		padding: 0;
+	}
+	
+	.table-wrapper {
+		margin: 0;
+		padding: 10px;
+	}
+	
+	.table-title {
+		padding: 10px;
+	}
+	
+	.table-title .btn {
+		display: block;
+		width: 100%;
+		margin: 5px 0;
+	}
+	
+	.table td:last-child {
+		min-width: 200px;
+	}
+	
+	.modal .modal-dialog {
+		margin: 10px;
+	}
+}
